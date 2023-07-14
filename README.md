@@ -1,7 +1,12 @@
-### DEVSEOP</br>YOUNSEOP LEE
+### DEVSEOP \ YOUNSEOP LEE
 
-**FRONT-END DEVLEOPER**</br>
-~~PRODUCT DESIGNER~~
+```javascript
+const [job, setJob] = useState('Product Designer')
+
+setJob((prevState) => ('Front-End Developer'))
+
+console.log(job)
+```
 
 <br />
 
