@@ -1,5 +1,8 @@
 ### DEVSEOP \ YOUNSEOP LEE
 
+**FRONT-END DEVLEOPER**</br>
+~~PRODUCT DESIGNER~~
+
 > #### Languages ####
 > ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
 > ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
